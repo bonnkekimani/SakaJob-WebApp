@@ -2,10 +2,10 @@ export const heroOne = {
 	reverse: true,
 	inverse: true,
 	topLine: {
-		text: 'Founded in 2012',
+		text: 'Founded in 2013',
 	},
-	headline: "We've been in business for 9 years",
-	description: 'We have designed and implemented the best cloud security solutions',
+	headline: "We've been in business for 10 years",
+	description: 'We are here to help you get a job',
 	buttonLabel: 'Find More',
 	imgStart: 'start',
 	img: './assets/svg/Deal.svg',
@@ -20,7 +20,7 @@ export const heroTwo = {
 	},
 	headline: 'The best practices',
 	description: 'Our clients have had the best experience working with us',
-	buttonLabel: 'View Project',
+	buttonLabel: 'View Testimonials',
 
 	linkTo: '/more',
 	imgStart: 'start',
@@ -36,7 +36,7 @@ export const heroThree = {
 	},
 	headline: 'Why us? ',
 	description:
-		'Our 9 year experience have allowed us to use the most innovative technologies and methodologies',
+		'Our 10 year experience have allowed us to use the most innovative technologies and methodologies',
 	buttonLabel: 'View Project',
 
 	linkTo: '/download',

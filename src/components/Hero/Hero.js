@@ -13,10 +13,12 @@ const Hero = () => {
 					Browse, Apply, Prepare Your Future Today!
 				</HeroText>
 				<ButtonWrapper>
-					<Link to="signup">
+					<Link to="ViewJobs">
 						<Button>Job Seeker</Button>
 					</Link>
+					<Link to="ViewJobs">
 					<HeroButton>Employer</HeroButton>
+					</Link>
 				</ButtonWrapper>
 			</Container>
 		</HeroSection>
